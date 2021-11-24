@@ -5,4 +5,4 @@ We first downloaded the 'Transinformacao.txt' file from the Web of Science (WoS)
 To analyze and correlate the data we will work with a relational database where all the database are linked by the article title.
 We then need to create tables correlating the different data with the article title.
 
-The final analysis will be carried out with power BI software to generate interactive dashboards.
+The final analysis will be carried out with Power BI software to generate interactive dashboards.
