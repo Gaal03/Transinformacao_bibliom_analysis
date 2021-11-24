@@ -1,4 +1,4 @@
-In this project we want to analyze bibliometric data from the Brazilian scientific journal Transinformação.
+In this project we want to prepare and clean bibliographic data from Transinformação, a Brazilian scientific journal, to support further bibliometric analysis .
 
 We first downloaded the "Bibliometrix-Export-File-2021-11-17.xlsx" from the Web of Science (WoS) database. We requested that the WoS retrieved all the publication
 from the journal. This archive contains some informations about the publications, such as article title, authors names, article DOI. The file uses headers
